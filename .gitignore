@@ -1,0 +1,17 @@
+# Jupyter Notebook
+*/.ipynb_checkpoints
+
+# Goorm IDE
+goorm.manifest
+
+# MNIST Dataset
+/dataset/**
+!/dataset/mnist.py
+
+# Python
+**/__pycache__/
+*.pkl
+*.pyc
+
+# test
+/test
